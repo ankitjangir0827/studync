@@ -1,0 +1,148 @@
+ @media only screen and (min-width:300px) and (max-width:575px){
+    .section-title{
+        font-size: 2rem;
+        padding: 0.8rem;
+    }
+    .section-description{
+        font-size: 1rem;
+        
+    }
+    .main-info-label{
+        font-size: 1.9rem;
+    }
+    .main-info-discription{
+        font-size: 1rem;
+    }
+    .feature-grid{
+        padding: 0%;
+    }
+    .feature-card{
+    width: 100%;
+    
+    }
+    .card{
+        width: 100%;
+       
+    }
+    .feature-container{
+        padding: 5%;
+        margin: 1%;
+        border-radius: 10px;
+    }
+    .company-container{
+        margin: 1%;
+    }
+    .company-grid{
+        width: 100%;
+    }
+ 
+    .testimonial-container{
+        margin: 0;
+        padding: 1%;
+    }
+    .testimonial-grid{
+        padding: 0;
+        margin: 0;
+    } 
+    .testimonial-contant{
+        width: 97%;
+        margin: 1%;
+        padding: 1%;
+    }
+    .testimonial-card{
+        width: 100%;
+        margin: 0%;
+        margin-right: 0;
+
+    }
+    .newsletter-container{
+        padding: 2.5%;
+    }
+  
+    .footer-container{
+        padding: 1%;
+        
+    }
+    .footer{
+        width: 100%;
+        height: auto;
+        padding: 1.5%;
+    }
+    .footer-left{
+        margin: 0;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        margin-bottom: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-right{
+        padding: 0;
+        margin: 0;
+    }
+    .footer-grid{
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+        row-gap: 2rem;
+        column-gap: 5rem; 
+    }
+    .footer-copyright{
+        margin: 0%;
+        margin-top: 5%;
+    }
+ }
+ @media only screen and (min-width:575px) and (max-width:768px){
+     .section-title{
+        font-size: 2.1rem;
+        padding: 0.9rem;
+    }
+    .section-description{
+        font-size: 1.1rem;
+        
+    }
+    .main-info-label{
+        font-size: 1.98rem;
+    }
+    .main-info-discription{
+        font-size: 1.05rem;
+    }
+ 
+    .footer-container{
+        padding: 1%;
+        
+    }
+    .footer{
+        width: 100%;
+        height: auto;
+        padding: 1.5%;
+    }
+    .footer-left{
+        margin: 0;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+        margin-bottom: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-right{
+        padding: 0;
+        margin: 0;
+    }
+    .footer-grid{
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+        row-gap: 3rem;
+        column-gap: 15rem; 
+    }
+    .footer-copyright{
+        margin: 0%;
+        margin-top: 5%;
+    }
+
+ }
